@@ -116,10 +116,9 @@ print("RMSE =", rmse)
 
 ## Testing Set
 ![image](https://github.com/user-attachments/assets/cd4fb883-cbf9-4949-913c-de7d7dde873f)
-Developed by: HEMACHANDIRAN J
-RegisterNumber:  24900182
-*/
-```
+## Developed by: HEMACHANDIRAN J
+## RegisterNumber: 24900182
+
 
 
 ## Result:
